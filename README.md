@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikban&show_icons=true&locale=en&layout=compact" alt="sagnikban" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikban&show_icons=true&locale=en" alt="sagnikban" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikban&" alt="sagnikban" /></p>
